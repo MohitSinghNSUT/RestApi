@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Jaqen H'ghar",
+      "email": "jaqen.hghar1@random.com",
+      "password": "$2b$12$sgxhWIzY6UiWvWFRMslCDusielBdf8tpNHraxHAS3c9QNwcCHdHJq"
+    },
+    {
+      "name": "Arya Stark",
+      "email": "arya.stark923@winterfell.com",
+      "password": "$2b$12$gH8ZkD90Fb9vMBUqdiLvhc2OhWe8aZfL3Yr/IfNzZsG6RL9bdHbYuc"
+    },
+    {
+      "name": "Jon Snow",
+      "email": "jon.snow234@nightwatch.org",
+      "password": "$2b$12$Dmf7ghZfbQz3r1CVomzYqfbzF6ew7HvnP1Vp8R8x8ADTr2y0JkA8H"
+    },
+    {
+      "name": "Daenerys Targaryen",
+      "email": "daenerys.drogon45@dragons.com",
+      "password": "$2b$12$GjD8h3g6NGVdDbZeI9zM8FsgHfXQsVUKhkg0Q0ptPpaZ8OR9pY/Ve"
+    },
+    {
+      "name": "Tyrion Lannister",
+      "email": "tyrion.lannister998@casterlyrock.com",
+      "password": "$2b$12$Zxnk8ZjeRj7cSl2BZWnF6HlH0ZAPa7WSoBRSxDbsTf5ns51MmV1vC"
+    },
+    {
+      "name": "Cersei Lannister",
+      "email": "cersei.lannister100@king'slanding.com",
+      "password": "$2b$12$UwJLVzUQK70XIwl8mDW9VuukSc45OZRtvReMclA0UMnDbT3jF8FfA"
+    },
+    {
+      "name": "Sansa Stark",
+      "email": "sansa.stark77@winterfell.com",
+      "password": "$2b$12$EgZdujslDvl7Y8tQ6u6GmXLV2tb3N5EjF2Al56J.7PSWGw42tR1vK"
+    },
+    {
+      "name": "Bran Stark",
+      "email": "bran.stark555@winterfell.com",
+      "password": "$2b$12$9AaHh4t9qVf7a3tqakATa2lEmOnBdOdYn5N0ewOjZX9w7khty7aHm"
+    },
+    {
+      "name": "Robb Stark",
+      "email": "robb.stark888@winterfell.com",
+      "password": "$2b$12$XwD44uYBf9tyty7L2XB9BUqsKLODW8Fq0HOfeUGQdR9D10UqFQYVG"
+    },
+    {
+      "name": "The Hound",
+      "email": "hound.dog22@gameofthron.es",
+      "password": "$2b$12$6eOl21zHLZYFwXVxysrrtWX18ieB3HiGnDzpoozPQxu5gM7G8.Lk0"
+    },
+    {
+      "name": "Jaime Lannister",
+      "email": "jaime.lannister321@king'slanding.com",
+      "password": "$2b$12$7kgZhz3bpg.WdpJNKYwqjoJzN7oWmj5MHTtF7IjbV21R1dXY8Smd8"
+    },
+    {
+      "name": "Varys",
+      "email": "varys.spymaster77@king'slanding.com",
+      "password": "$2b$12$AmAZwdIU5ONkZYLP6TwKhbqlb1k9y6wtoFqMMLC01oxvbo3Zr0hyf"
+    },
+    {
+      "name": "Petyr Baelish",
+      "email": "petyr.baelish25@littlefinger.com",
+      "password": "$2b$12$3Hsf3bV6TDBT.eYiqhnY1z7Vr8jiTfw4.RPvRMM3mLZnLB.wYt.Jc"
+    },
+    {
+      "name": "Missandei",
+      "email": "missandei.whisper01@dragons.com",
+      "password": "$2b$12$hbMnv7T6Q9cthZ/xebFJ0fL5jdf12w5T7VDBw5S7XptWbptwHeK8Q"
+    },
+    {
+      "name": "Grey Worm",
+      "email": "grey.worm456@unsullied.com",
+      "password": "$2b$12$Y0HaGB5n6Zm5h4A1rcjqOaFhxl1g0wv2vhPpJ1r1yZkcij02R7ooy"
+    },
+    {
+      "name": "Samwell Tarly",
+      "email": "samwell.tarly999@nightwatch.org",
+      "password": "$2b$12$F6F2JYFz1XtTHZC7GpOC9KT03X9cuqBh1QMFk8E/s0/Zp71Ecd/Ya"
+    },
+    {
+      "name": "Gendry",
+      "email": "gendry.smith333@smith.com",
+      "password": "$2b$12$Dd3SKMu1Jq2.0MxsIeq4x.R1Cft0ZnLfT.CiWUECmSQt/mbXQ3o6O"
+    },
+    {
+      "name": "Jorah Mormont",
+      "email": "jorah.mormont777@gameofthron.es",
+      "password": "$2b$12$1QpXci9cx26h2Z4S4tD2CZn/OXy3O5F25POm30pnwGS9g8fo31Y9G"
+    },
+    {
+      "name": "Brienne of Tarth",
+      "email": "brienne.tarth001@gameofthron.es",
+      "password": "$2b$12$3t2KZybgKHMC8WiGwd8C8YONhr37RaElIioOpZm4k4.CuZyHLg7GG"
+    }
+  ]
+  
